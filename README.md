@@ -1,2 +1,2 @@
-# CDN
-FyreNodes - Content Delivery Network
+# FyreCDN
+### FyreNodes - Content Delivery Network
